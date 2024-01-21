@@ -6,6 +6,7 @@
  VISUALS (Undetected)
  OTHER (Undetected)
  Spoofer (Undetected)
+ Skinchanger (Undetected)
  -----------------
 ```
 
